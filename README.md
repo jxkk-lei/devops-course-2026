@@ -1,2 +1,8 @@
-# devops-course-2026
-practice lessons from devops course 2026
+# DevOps Course 2026
+Учебный репозиторий курса "Инструменты DevOps".
+## Автор
+[ваше ФИО], группа [ваша группа]
+## Стек
+- Git / GitHub
+- Python
+- Docker (скоро)
