@@ -14,3 +14,4 @@ DEV_3.md 2026-09-12
 - Python
 - Docker (скоро)
 "main line" 
+"main line 2" 
